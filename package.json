@@ -1,0 +1,21 @@
+{
+    "name": "NeonGreen",
+    "displayName": "NeonGreen",
+    "description": "A simple neon green color theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neon Green-color-theme.json"
+            }
+        ]
+    }
+}
