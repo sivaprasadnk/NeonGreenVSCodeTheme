@@ -1,8 +1,14 @@
 {
-    "name": "NeonGreen",
+    "name": "neongreen",
     "displayName": "NeonGreen",
     "description": "A simple neon green color theme for VS Code",
     "version": "0.0.1",
+    "publisher": "SivaprasadNK",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sivaprasadnk/NeonGreenVSCodeTheme.git"
+
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
